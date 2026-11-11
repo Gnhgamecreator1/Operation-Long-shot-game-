@@ -4,4 +4,4 @@ A video game that is to be the most insane one yet while still not even using a 
 
 
 
-for level 2 to work you will need carsim.html which is oversized 
+for level 2 to work you will need carsim.html (CAUTION: HEAVY LOAD)
